@@ -3,7 +3,7 @@ package core
 import (
 	"bytes"
 	"errors"
-	"github.com/izqui/helpers"
+	"github.com/Kevin-miu/helpers"
 )
 
 type Message struct {
