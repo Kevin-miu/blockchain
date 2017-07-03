@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/izqui/helpers"
+	"github.com/Kevin-miu/helpers"
 
 	"testing"
 )
