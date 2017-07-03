@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/izqui/helpers"
+	"github.com/Kevin-miu/helpers"
 )
 
 func TestMerkellHash(t *testing.T) {
