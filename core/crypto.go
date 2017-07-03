@@ -6,7 +6,7 @@ import (
 	"crypto/rand"
 	"math/big"
 
-	"github.com/izqui/helpers"
+	"github.com/Kevin-miu/helpers"
 	"github.com/tv42/base58"
 )
 
