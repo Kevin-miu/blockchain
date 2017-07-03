@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"reflect"
 
-	"github.com/izqui/functional"
-	"github.com/izqui/helpers"
+	"github.com/Kevin-miu/functional"
+	"github.com/Kevin-miu/helpers"
 )
 
 type BlockSlice []Block
